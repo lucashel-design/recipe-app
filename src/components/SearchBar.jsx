@@ -1,9 +1,9 @@
-function SearchBar({ searchText, onSearchChange }) {
+function SearchBar({ searchText, onSearchChange, placeholder }) {
   return (
     <form>
       <input
         type="text"
-        placeholder="Busca una receta..."
+        placeholder={placeholder}
         value={searchText}
         onChange={onSearchChange}
       />

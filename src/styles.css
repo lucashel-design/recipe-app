@@ -61,3 +61,70 @@ section {
 ul {
   padding-left: 20px;
 }
+
+.view-toggle-btn {
+  margin-bottom: 24px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #222;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.view-toggle-btn:hover {
+  opacity: 0.9;
+}
+
+.preparation-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.preparation-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.preparation-info h3 {
+  margin: 0;
+}
+
+.preparation-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.preparation-actions button {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.preparation-actions button.active {
+  color: white;
+  border: none;
+}
+
+.preparation-actions button.urgent.active {
+  background: #d62828;
+}
+
+.preparation-actions button.prepare.active {
+  background: #f4a261;
+}
+
+.preparation-actions button.no-prepare.active {
+  background: #6c757d;
+}
