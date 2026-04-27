@@ -718,6 +718,181 @@ const recipes = [
       "CURRY POLVO 1GR"
     ],
     "description": "Cocinar todo hasta reducir un poco."
+  },
+  {
+    "id": "hummus",
+    "title": "hummus-perrito",
+    "ingredients": [
+      "Garbanzos cocidos: 1070 g (2 frascos)",
+      "Limón grande: 1 ud (zumo y ralladura) / 200 g",
+      "Aceite de oliva: 150 ml",
+      "Ajo fresco: 1 diente",
+      "Sal fina: 7 g",
+      "Tajín: 5 g",
+      "Tahini: 40 g"
+    ],
+    "description": "Colocar todos los ingredientes (garbanzos, limón, aceite de oliva, ajo, sal, tajín y tahini) en el vaso de la Thermomix. Mezclar a velocidad alta hasta obtener una pasta suave y homogénea. Ajustar limón, sal y consistencia agregando más aceite o agua si es necesario. Refrigerar en recipiente hermético."
+  },
+  {
+    "id": "galletas-veganas",
+    "title": "galletas-veganas-perrito",
+    "ingredients": [
+      "Peanut butter: 270 g",
+      "Azúcar blanca: 100 g",
+      "Panela: 100 g",
+      "Leche de almendra: 120 g",
+      "Harina sin gluten: 300 g",
+      "Sal Maldon: 1 grapada",
+      "Royal: 1 cucharada de 5 ml",
+      "Bicarbonato de sodio: 1 cuchara de 1 ml",
+      "Nuez moscada",
+      "Chocolate 52%: 100 g, cortado en trocitos pequeños"
+    ],
+    "description": "Poner todo en la Thermomix menos el chocolate. Añadir el chocolate al final. Hornear 15 minutos a 150°C."
+  },
+  {
+    "id": "pan-bagels",
+    "title": "pan-bagels-perrito",
+    "ingredients": [
+      "Levadura fresca: 2 unidades",
+      "Harina de trigo: 1000 g",
+      "Huevo: 2 unidades",
+      "Mantequilla: 80 g",
+      "Sal fina: 20 g",
+      "Leche: 240 ml",
+      "Agua: 280 ml",
+      "Azúcar: 12 g",
+      "Mix semillas bagel: 160 g"
+    ],
+    "description": "En la amasadora, agregar la harina de trigo, sal fina, agua, leche, azúcar y levadura fresca. Mezclar bien hasta que todos los ingredientes se integren. Añadir los huevos y mezclar nuevamente hasta que la masa esté formada. Cuando la masa esté bien formada, agregar la mantequilla y mezclar hasta que se integre completamente. Una vez lista, agregar el mix de semillas y mezclar para incorporarlo de manera uniforme. Dejar reposar la masa durante unos 30 minutos para que suba. Dividir la masa en 16 partes iguales y formar los bagels. Hervir agua y, cuando esté en ebullición, colocar los bagels durante 10 segundos por cada lado y retirar del agua. Mezclar bien el huevo con 30 ml de leche para pintar los bagels. Colocarlos en una bandeja de horno, pintarlos con la mezcla de leche y huevo y espolvorear con mezcla de semillas y avena, aproximadamente 10 g por bagel. Hornear a 180°C durante 8 minutos, girar la bandeja y hornear 8 minutos más. Retirar y enfriar en rejilla 1 hora antes de almacenar."
+  },
+  {
+    "id": "pan-de-molde-blt",
+    "title": "pan-de-molde-blt-perrito",
+    "ingredients": [
+      "Levadura fresca: 20 g",
+      "Harina de trigo: 1000 g",
+      "Mantequilla sin sal: 100 g",
+      "Sal fina: 20 g",
+      "Leche: 300 ml",
+      "Agua: 300 ml",
+      "Azúcar: 50 g"
+    ],
+    "description": "Colocar la harina de trigo, la levadura fresca, el azúcar, la sal y el agua en la amasadora. Mezclar hasta integrar bien los ingredientes. Cuando la masa se haya formado, agregar el aceite de oliva y seguir amasando hasta que la masa esté suave y homogénea. Agregar las olivas negras y mezclar bien. Dividir la masa en 1 bollo de aproximadamente 1700 g. Dejar reposar los bollos entre 45 minutos y 1 hora para que fermenten. Una vez descansada la masa, desgasificar el bollo estirándolo sobre la mesada. Luego, enrollar."
+  },
+  {
+    "id": "pan-hamburguesa",
+    "title": "pan-hamburguesa-perrito",
+    "ingredients": [
+      "Levadura fresca: 2 unidades",
+      "Harina de trigo: 1000 g",
+      "Huevo: 2 unidades",
+      "Mantequilla: 150 g",
+      "Sal fina: 20 g",
+      "Leche: 500 ml",
+      "Azúcar: 100 g"
+    ],
+    "description": "En la amasadora, agregar la harina de trigo, sal fina, azúcar, leche y levadura fresca. Mezclar hasta que los ingredientes estén bien integrados. Cuando la masa esté formada, agregar los huevos y mezclar nuevamente hasta que se integren bien. Después de mezclar, añadir la mantequilla y seguir amasando hasta que la masa quede suave y homogénea. Dejar reposar la masa durante 45 minutos a 1 hora, hasta que haya levado. Dividir la masa en dos tamaños: para mini hamburguesas, porciones de 50 g; para hamburguesas comunes, porciones de 90 g. Formar bolitas con la masa, colocarlas en un molde y aplanarlas ligeramente. Dejar que la masa repose y leude hasta que llegue al borde del molde. Antes de meter los panes al horno, pintarlos con leche para obtener un acabado dorado. Hornear a 180°C durante 15-20 minutos el pan de hamburguesa y entre 10-15 minutos el pan de mini hamburguesa, o hasta que los panes estén dorados y cocidos por dentro."
+  },
+  {
+    "id": "molde-benedict",
+    "title": "molde-benedict-perrito",
+    "ingredients": [
+      "Masa base de brioche",
+      "Harina: 3 kg para la preparación indicada"
+    ],
+    "description": "Con 3 kg de harina, hacer la masa base de brioche. Hacer bollos de 450 g y dejarlos descansar durante unos 45 minutos a 1 hora para que la levadura se active bien. Pasado ese tiempo, estirar cada bollo sobre la mesada de manera suave para evitar que pierda aire y luego enrollarlos en forma de cilindro. Una vez enrollados, colocarlos en el molde que prefieras. Después de colocar los bollos enrollados en el molde, aplastarlos un poco con las manos para que tomen forma y se ajusten al tamaño del molde. Dejar leudar hasta que la masa llegue casi al borde superior del molde. Una vez que hayan leudado completamente, hornear a 180°C durante 15-20 minutos."
+  },
+  {
+    "id": "canelitas",
+    "title": "canelitas-perrito",
+    "ingredients": [
+      "Harina: 960 g",
+      "Manteca: 150 g",
+      "Leche: 400 g",
+      "Azúcar: 100 g",
+      "Levadura: 50 g",
+      "Sal",
+      "Para mezcla/cobertura: Harina: 160 g",
+      "Azúcar: 400 g",
+      "Canela: 60 g",
+      "Manteca: 400 g"
+    ],
+    "description": ""
+  },
+  {
+    "id": "tarta-lima",
+    "title": "tarta-lima-perrito",
+    "ingredients": [
+      "Clara: 380 g",
+      "Azúcar: 200 g",
+      "Almendra: 200 g",
+      "Piel de lima: 2 unidades"
+    ],
+    "description": ""
+  },
+  {
+    "id": "tarta-choco",
+    "title": "tarta-choco-perrito",
+    "ingredients": [
+      "Clara: 380 g",
+      "Azúcar: 200 g",
+      "Almendra: 200 g",
+      "Cacao: 30 g",
+      "Piel de naranja: 2 unidades"
+    ],
+    "description": ""
+  },
+  {
+    "id": "masa-rayada",
+    "title": "masa-rayada-perrito",
+    "ingredients": [
+      "Mantequilla: 400 g",
+      "Harina: 9",
+      "Azúcar: 3",
+      "Huevo: 2 unidades",
+      "Piel de naranja: 2 unidades"
+    ],
+    "description": ""
+  },
+  {
+    "id": "tapa-alfajor",
+    "title": "tapa-alfajor-perrito",
+    "ingredients": [
+      "Mantequilla: 400 g",
+      "Harina: 9",
+      "Azúcar: 4",
+      "Azúcar vainilla: 2 x 15ml",
+      "Royal: 2 x 1ml",
+      "Piel de naranja: 2 unidades"
+    ],
+    "description": "Formar tapas de 25 g aproximadamente. Hornear a 130°C-150°C durante 12-15 minutos."
+  },
+  {
+    "id": "cesar",
+    "title": "cesar-perrito",
+    "ingredients": [
+      "Agua cafetera: 2 capuchinos",
+      "Anchoa: 1 lata",
+      "Parmesano: 300 g",
+      "Limón: 4 unidades, zumo y piel",
+      "Dijon: 40",
+      "Yema: 4 unidades",
+      "Ajo: 2 dientes",
+      "Aceite de girasol: 670 g",
+      "Sal y pimienta"
+    ],
+    "description": "Triturar todos los ingredientes hasta obtener una salsa homogénea."
+  },
+  {
+    "id": "glasa",
+    "title": "glasa-perrito",
+    "ingredients": [
+      "Azúcar glass: 180 g",
+      "Piel de lima: 2 unidades",
+      "Zumo de lima"
+    ],
+    "description": ""
   }
 ];
 
