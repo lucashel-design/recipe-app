@@ -51,6 +51,12 @@ function App() {
     }));
   }
 
+  function handleOpenRecipeFromPreparation(recipe) {
+    setViewMode("recipes");
+    setSelectedRecipe(recipe);
+    setSearchText(recipe.title);
+  }
+
   return (
     <main className="app">
       <h1>
@@ -93,6 +99,7 @@ function App() {
               recipes={filteredRecipes}
               preparationStatus={preparationStatus}
               onStatusChange={handleStatusChange}
+              onOpenRecipe={handleOpenRecipeFromPreparation}
             />
           ) : (
             <p>No se encontraron preparaciones con este nombre.</p>

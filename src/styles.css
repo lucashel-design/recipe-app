@@ -128,3 +128,21 @@ ul {
 .preparation-actions button.no-prepare.active {
   background: #6c757d;
 }
+
+.recipe-title-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1.1;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+
+.recipe-title-button:hover {
+  text-decoration: underline;
+}
