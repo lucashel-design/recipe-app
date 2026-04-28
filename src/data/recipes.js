@@ -1,7 +1,7 @@
 const recipes = [
   {
     "id": "asai",
-    "title": "asai-perrito",
+    "title": "asai",
     "ingredients": [
       "YOGURT 2KG",
       "SOBRE ASAI 4 PAQUETES"
@@ -10,7 +10,7 @@ const recipes = [
   },
   {
     "id": "granola",
-    "title": "granola-perrito",
+    "title": "granola",
     "ingredients": [
       "AVENA 1 PAQUETE",
       "ALMENDRA GRANILLO 600GR",
@@ -26,7 +26,7 @@ const recipes = [
   },
   {
     "id": "tzatziki",
-    "title": "tzatziki-perrito",
+    "title": "tzatziki",
     "ingredients": [
       "PEPINO 4UD",
       "YOGURT 2KG",
@@ -41,7 +41,7 @@ const recipes = [
   },
   {
     "id": "guacamole",
-    "title": "guacamole-perrito",
+    "title": "guacamole",
     "ingredients": [
       "AGUACATE 2UD",
       "TABASCO 5ML",
@@ -53,7 +53,7 @@ const recipes = [
   },
   {
     "id": "pico-de-gallo",
-    "title": "pico de gallo-perrito",
+    "title": "pico de gallo",
     "ingredients": [
       "PIMIENTO ROJO 1UD",
       "PIMIENTO VERDE 1UD",
@@ -70,7 +70,7 @@ const recipes = [
   },
   {
     "id": "3-mostazas",
-    "title": "3 mostazas-perrito",
+    "title": "3 mostazas",
     "ingredients": [
       "DIJON 1 BOTE",
       "ANTIGUA 1 BOTE",
@@ -81,7 +81,7 @@ const recipes = [
   },
   {
     "id": "mayo-picante",
-    "title": "mayo picante-perrito",
+    "title": "mayo picante",
     "ingredients": [
       "MAYONESA 1KG",
       "SRIRACHA 100ML",
@@ -91,7 +91,7 @@ const recipes = [
   },
   {
     "id": "vinagre-japo",
-    "title": "vinagre japo-perrito",
+    "title": "vinagre japo",
     "ingredients": [
       "VINAGRE ARROZ 500ML",
       "VINAGRE MANZANA 500ML",
@@ -101,7 +101,7 @@ const recipes = [
   },
   {
     "id": "mayo-japo",
-    "title": "mayo japo-perrito",
+    "title": "mayo japo",
     "ingredients": [
       "MAYONESA 1KG",
       "SALSA SOJA 100ML",
@@ -111,7 +111,7 @@ const recipes = [
   },
   {
     "id": "mayo-trufa",
-    "title": "mayo trufa-perrito",
+    "title": "mayo trufa",
     "ingredients": [
       "MAYONESA 1KG",
       "TARTUFFO 100GR",
@@ -121,7 +121,7 @@ const recipes = [
   },
   {
     "id": "mayo-kimchi",
-    "title": "mayo kimchi-perrito",
+    "title": "mayo kimchi",
     "ingredients": [
       "MAYONESA 1KG",
       "KIMCHI BASE 100ML"
@@ -130,7 +130,7 @@ const recipes = [
   },
   {
     "id": "salsa-blt",
-    "title": "salsa blt-perrito",
+    "title": "salsa blt",
     "ingredients": [
       "MAYONESA 1KG",
       "KETCHUP 250ML",
@@ -146,7 +146,7 @@ const recipes = [
   },
   {
     "id": "ensaladilla-atun",
-    "title": "ensaladilla atún-perrito",
+    "title": "ensaladilla atún",
     "ingredients": [
       "ATUN 1KG",
       "MAYONESA 400ML",
@@ -157,7 +157,7 @@ const recipes = [
   },
   {
     "id": "pesto-tomate",
-    "title": "pesto tomate-perrito",
+    "title": "pesto tomate",
     "ingredients": [
       "TOMATE SECO ½ BOTE",
       "PARMESANO 75GR",
@@ -169,7 +169,7 @@ const recipes = [
   },
   {
     "id": "tahine",
-    "title": "tahine-perrito",
+    "title": "tahine",
     "ingredients": [
       "SESAMO TOSTADO 1KG",
       "ACEITE DE OLIVA 200/300ML",
@@ -179,7 +179,7 @@ const recipes = [
   },
   {
     "id": "queso-rabano",
-    "title": "queso rábano-perrito",
+    "title": "queso rábano",
     "ingredients": [
       "QUESO CREMA 4 PAQUETES",
       "LIMA ½",
@@ -190,7 +190,7 @@ const recipes = [
   },
   {
     "id": "salsa-cacahuete",
-    "title": "salsa cacahuete-perrito",
+    "title": "salsa cacahuete",
     "ingredients": [
       "MANTEQUILLA DE CACAHUETE",
       "AGUA"
@@ -199,7 +199,7 @@ const recipes = [
   },
   {
     "id": "cherrys-confitados",
-    "title": "cherrys confitados-perrito",
+    "title": "cherrys confitados",
     "ingredients": [
       "TOMATE CHERRY",
       "AJO LAMINADO",
@@ -210,7 +210,7 @@ const recipes = [
   },
   {
     "id": "burger-carne",
-    "title": "burger carne-perrito",
+    "title": "burger carne",
     "ingredients": [
       "CARNE PICADA 5KG",
       "CEBOLLA 3",
@@ -224,7 +224,7 @@ const recipes = [
   },
   {
     "id": "burger-soja",
-    "title": "burger soja-perrito",
+    "title": "burger soja",
     "ingredients": [
       "SOJA TEXTURIZADA 400GR CON 850ML AGUA Y 250 ML SOJA",
       "HUEVOS 3",
@@ -237,7 +237,7 @@ const recipes = [
   },
   {
     "id": "pulled-beef",
-    "title": "pulled beef-perrito",
+    "title": "pulled beef",
     "ingredients": [
       "VACIO DE TERNERA 5KG",
       "SALSA SOJA 800ML",
@@ -250,7 +250,7 @@ const recipes = [
   },
   {
     "id": "falafel",
-    "title": "falafel-perrito",
+    "title": "falafel",
     "ingredients": [
       "GARBANZOS HIGRATADOS 1KG",
       "CEBOLLA 4",
@@ -265,7 +265,7 @@ const recipes = [
   },
   {
     "id": "tom-kha",
-    "title": "tom kha-perrito",
+    "title": "tom kha",
     "ingredients": [
       "CEBOLLA 3",
       "LEMON GRASS 5",
@@ -280,7 +280,7 @@ const recipes = [
   },
   {
     "id": "wakame",
-    "title": "wakame-perrito",
+    "title": "wakame",
     "ingredients": [
       "WAKAME",
       "VINAGRETA",
@@ -290,7 +290,7 @@ const recipes = [
   },
   {
     "id": "pepino-pickle-5un",
-    "title": "pepino pickle 5un.-perrito",
+    "title": "pepino pickle 5un.",
     "ingredients": [
       "SALSA SOJA 500ML",
       "ZUMO NARANJA 250ML",
@@ -301,7 +301,7 @@ const recipes = [
   },
   {
     "id": "mango",
-    "title": "mango-perrito",
+    "title": "mango",
     "ingredients": [
       "MANGO ½ KG",
       "ACEITE DE SESAMO 15ML",
@@ -312,7 +312,7 @@ const recipes = [
   },
   {
     "id": "salmon-bowl",
-    "title": "salmon bowl-perrito",
+    "title": "salmon bowl",
     "ingredients": [
       "SALMON PICADO 1KG",
       "SALSA SOJA 50ML",
@@ -323,7 +323,7 @@ const recipes = [
   },
   {
     "id": "coleslaw",
-    "title": "coleslaw-perrito",
+    "title": "coleslaw",
     "ingredients": [
       "COL ¼",
       "ZANAHORIA 2UD",
@@ -337,7 +337,7 @@ const recipes = [
   },
   {
     "id": "kimchi-col",
-    "title": "kimchi col-perrito",
+    "title": "kimchi col",
     "ingredients": [
       "COL LOMBARDA 1 GRANDE",
       "SALSA SOJA 500ML",
@@ -351,7 +351,7 @@ const recipes = [
   },
   {
     "id": "chutney",
-    "title": "chutney-perrito",
+    "title": "chutney",
     "ingredients": [
       "MANZANA O PERA 5KG",
       "JENGIBRE 200GR",
@@ -365,7 +365,7 @@ const recipes = [
   },
   {
     "id": "pollo-tandoori",
-    "title": "pollo tandoori-perrito",
+    "title": "pollo tandoori",
     "ingredients": [
       "CONTRAS DE POLLO 3KG",
       "LECHE DE COCO 750ML",
@@ -378,7 +378,7 @@ const recipes = [
   },
   {
     "id": "salsa-atun",
-    "title": "salsa atún-perrito",
+    "title": "salsa atún",
     "ingredients": [
       "SALSA SOJA 1L",
       "ZUMO NARANJA 400ML",
@@ -392,7 +392,7 @@ const recipes = [
   },
   {
     "id": "verduras-asadas",
-    "title": "verduras asadas-perrito",
+    "title": "verduras asadas",
     "ingredients": [
       "CALABACIN 2UD",
       "BERENJENAS 2UD",
@@ -407,7 +407,7 @@ const recipes = [
   },
   {
     "id": "masa-quiche-2-moldes",
-    "title": "masa quiche (2 moldes)-perrito",
+    "title": "masa quiche (2 moldes)",
     "ingredients": [
       "HARINA COMUN 4DL",
       "HARINA INTEGRAL 2DL",
@@ -421,7 +421,7 @@ const recipes = [
   },
   {
     "id": "relleno-almendra",
-    "title": "relleno almendra-perrito",
+    "title": "relleno almendra",
     "ingredients": [
       "ALMENDRA MOLIDA 500GR",
       "YEMA 75GR",
@@ -433,7 +433,7 @@ const recipes = [
   },
   {
     "id": "almibar",
-    "title": "almíbar-perrito",
+    "title": "almíbar",
     "ingredients": [
       "AGUA 500ML",
       "AZUCAR 500ML",
@@ -443,7 +443,7 @@ const recipes = [
   },
   {
     "id": "tapa-crumble",
-    "title": "tapa crumble-perrito",
+    "title": "tapa crumble",
     "ingredients": [
       "COPOS AVENA 7DL",
       "AZUCAR 3DL",
@@ -454,7 +454,7 @@ const recipes = [
   },
   {
     "id": "crumble-manzana",
-    "title": "crumble manzana-perrito",
+    "title": "crumble manzana",
     "ingredients": [
       "MANZANA 1KG",
       "JENGIBRE POLVO 15ML",
@@ -466,7 +466,7 @@ const recipes = [
   },
   {
     "id": "crumble-frambuesa",
-    "title": "crumble frambuesa-perrito",
+    "title": "crumble frambuesa",
     "ingredients": [
       "FRAMBUESA 750GR",
       "AZUCAR 150GR",
@@ -476,7 +476,7 @@ const recipes = [
   },
   {
     "id": "masa-rayada",
-    "title": "masa rayada-perrito",
+    "title": "masa rayada",
     "ingredients": [
       "HARINA 9DL",
       "AZUCAR 240GR",
@@ -488,7 +488,7 @@ const recipes = [
   },
   {
     "id": "tarta-lima",
-    "title": "tarta lima-perrito",
+    "title": "tarta lima",
     "ingredients": [
       "CLARA HUEVO 380GR",
       "AZUCAR 200GR",
@@ -500,7 +500,7 @@ const recipes = [
   },
   {
     "id": "bolita-choco",
-    "title": "bolita choco-perrito",
+    "title": "bolita choco",
     "ingredients": [
       "AVENA 9DL",
       "AZUCAR 4DL",
@@ -515,43 +515,43 @@ const recipes = [
   },
   {
     "id": "mayo-curry",
-    "title": "mayo curry-perrito",
+    "title": "mayo curry",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "panceta-confiada",
-    "title": "panceta confiada-perrito",
+    "title": "panceta confiada",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "mayo-nduja",
-    "title": "mayo nduja-perrito",
+    "title": "mayo nduja",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "cebolla-pickle",
-    "title": "cebolla pickle-perrito",
+    "title": "cebolla pickle",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "salsa-miso",
-    "title": "salsa miso-perrito",
+    "title": "salsa miso",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "mayo-chipotl",
-    "title": "mayo chipotl-perrito",
+    "title": "mayo chipotl",
     "ingredients": [],
     "description": ""
   },
   {
     "id": "tandoori-pollo",
-    "title": "tandoori pollo-perrito",
+    "title": "tandoori pollo",
     "ingredients": [
       "POLLO 2KG",
       "TANDOORI 2 CUCHARADAS",
@@ -564,7 +564,7 @@ const recipes = [
   },
   {
     "id": "arroz-quinoa",
-    "title": "arroz quinoa-perrito",
+    "title": "arroz quinoa",
     "ingredients": [
       "AGUA 3 PARTES",
       "ARROZ 2 PARTES",
@@ -580,7 +580,7 @@ const recipes = [
   },
   {
     "id": "galletas-de-almendra-mama-de-stef",
-    "title": "galletas de almendra mamá de stef-perrito",
+    "title": "galletas de almendra mamá de stef",
     "ingredients": [
       "ALMENDRAS TRITURADAS 500GR",
       "AZÚCAR 300GR",
@@ -590,7 +590,7 @@ const recipes = [
   },
   {
     "id": "marinado-tempura-verduras-asadas",
-    "title": "marinado tempura verduras asadas-perrito",
+    "title": "marinado tempura verduras asadas",
     "ingredients": [
       "SODA 1/4 BOTELLA",
       "SEMILLAS DE SÉSAMO MEZCLA",
@@ -601,7 +601,7 @@ const recipes = [
   },
   {
     "id": "claras-punto-nieve-para-galletas-almendras",
-    "title": "claras punto nieve (para galletas almendras)-perrito",
+    "title": "claras punto nieve (para galletas almendras)",
     "ingredients": [
       "CLARAS 190GR"
     ],
@@ -609,7 +609,7 @@ const recipes = [
   },
   {
     "id": "salsa-para-atun",
-    "title": "salsa para atún-perrito",
+    "title": "salsa para atún",
     "ingredients": [
       "SALSA SOJA 1LT",
       "ZUMO NARANJA 0,5LTS",
@@ -624,7 +624,7 @@ const recipes = [
   },
   {
     "id": "mezcla-semillas",
-    "title": "mezcla semillas-perrito",
+    "title": "mezcla semillas",
     "ingredients": [
       "MEZCLA SÉSAMO 1/2 KG",
       "PIPAS 1/2 KG",
@@ -635,7 +635,7 @@ const recipes = [
   },
   {
     "id": "pan-sin-gluten",
-    "title": "pan sin gluten-perrito",
+    "title": "pan sin gluten",
     "ingredients": [
       "PARA 3 PANES",
       "AGUA 1200",
@@ -649,7 +649,7 @@ const recipes = [
   },
   {
     "id": "pan-masa-madre",
-    "title": "pan masa madre-perrito",
+    "title": "pan masa madre",
     "ingredients": [
       "AGUA 2LTS",
       "LEVADURA 50",
@@ -662,7 +662,7 @@ const recipes = [
   },
   {
     "id": "alimento-masa-madre",
-    "title": "alimento masa madre-perrito",
+    "title": "alimento masa madre",
     "ingredients": [
       "AGUA 600",
       "HARINA INTEGRAL 6DL",
@@ -672,7 +672,7 @@ const recipes = [
   },
   {
     "id": "salsa-holandesa",
-    "title": "salsa holandesa-perrito",
+    "title": "salsa holandesa",
     "ingredients": [
       "YEMAS 10",
       "AGUA 100ML",
@@ -685,7 +685,7 @@ const recipes = [
   },
   {
     "id": "brownie",
-    "title": "brownie-perrito",
+    "title": "brownie",
     "ingredients": [
       "HUEVOS 5",
       "AZÚCAR 300",
@@ -698,7 +698,7 @@ const recipes = [
   },
   {
     "id": "cebolla-marinada",
-    "title": "cebolla marinada-perrito",
+    "title": "cebolla marinada",
     "ingredients": [
       "AZÚCAR 150G (1 PARTE)",
       "VINAGRE 300G (2 PARTES)",
@@ -709,7 +709,7 @@ const recipes = [
   },
   {
     "id": "salsa-barbacoa",
-    "title": "salsa barbacoa-perrito",
+    "title": "salsa barbacoa",
     "ingredients": [
       "COCA COLA 2 LATAS",
       "KETCHUP 660ML",
@@ -721,7 +721,7 @@ const recipes = [
   },
   {
     "id": "hummus",
-    "title": "hummus-perrito",
+    "title": "hummus",
     "ingredients": [
       "Garbanzos cocidos: 1070 g (2 frascos)",
       "Limón grande: 1 ud (zumo y ralladura) / 200 g",
@@ -735,7 +735,7 @@ const recipes = [
   },
   {
     "id": "galletas-veganas",
-    "title": "galletas-veganas-perrito",
+    "title": "galletas-veganas",
     "ingredients": [
       "Peanut butter: 270 g",
       "Azúcar blanca: 100 g",
@@ -752,7 +752,7 @@ const recipes = [
   },
   {
     "id": "pan-bagels",
-    "title": "pan-bagels-perrito",
+    "title": "pan-bagels",
     "ingredients": [
       "Levadura fresca: 2 unidades",
       "Harina de trigo: 1000 g",
@@ -768,7 +768,7 @@ const recipes = [
   },
   {
     "id": "pan-de-molde-blt",
-    "title": "pan-de-molde-blt-perrito",
+    "title": "pan-de-molde-blt",
     "ingredients": [
       "Levadura fresca: 20 g",
       "Harina de trigo: 1000 g",
@@ -782,7 +782,7 @@ const recipes = [
   },
   {
     "id": "pan-hamburguesa",
-    "title": "pan-hamburguesa-perrito",
+    "title": "pan-hamburguesa",
     "ingredients": [
       "Levadura fresca: 2 unidades",
       "Harina de trigo: 1000 g",
@@ -796,7 +796,7 @@ const recipes = [
   },
   {
     "id": "molde-benedict",
-    "title": "molde-benedict-perrito",
+    "title": "molde-benedict",
     "ingredients": [
       "Masa base de brioche",
       "Harina: 3 kg para la preparación indicada"
@@ -805,7 +805,7 @@ const recipes = [
   },
   {
     "id": "canelitas",
-    "title": "canelitas-perrito",
+    "title": "canelitas",
     "ingredients": [
       "Harina: 960 g",
       "Manteca: 150 g",
@@ -822,7 +822,7 @@ const recipes = [
   },
   {
     "id": "tarta-lima",
-    "title": "tarta-lima-perrito",
+    "title": "tarta-lima",
     "ingredients": [
       "Clara: 380 g",
       "Azúcar: 200 g",
@@ -833,7 +833,7 @@ const recipes = [
   },
   {
     "id": "tarta-choco",
-    "title": "tarta-choco-perrito",
+    "title": "tarta-choco",
     "ingredients": [
       "Clara: 380 g",
       "Azúcar: 200 g",
@@ -845,7 +845,7 @@ const recipes = [
   },
   {
     "id": "masa-rayada",
-    "title": "masa-rayada-perrito",
+    "title": "masa-rayada",
     "ingredients": [
       "Mantequilla: 400 g",
       "Harina: 9",
@@ -857,7 +857,7 @@ const recipes = [
   },
   {
     "id": "tapa-alfajor",
-    "title": "tapa-alfajor-perrito",
+    "title": "tapa-alfajor",
     "ingredients": [
       "Mantequilla: 400 g",
       "Harina: 9",
@@ -870,7 +870,7 @@ const recipes = [
   },
   {
     "id": "cesar",
-    "title": "cesar-perrito",
+    "title": "cesar",
     "ingredients": [
       "Agua cafetera: 2 capuchinos",
       "Anchoa: 1 lata",
@@ -886,7 +886,7 @@ const recipes = [
   },
   {
     "id": "glasa",
-    "title": "glasa-perrito",
+    "title": "glasa",
     "ingredients": [
       "Azúcar glass: 180 g",
       "Piel de lima: 2 unidades",
