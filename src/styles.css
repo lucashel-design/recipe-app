@@ -146,3 +146,13 @@ ul {
 .recipe-title-button:hover {
   text-decoration: underline;
 }
+
+.preparation-group {
+  margin-bottom: 32px;
+}
+
+.preparation-group-title {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  text-align: left;
+}
