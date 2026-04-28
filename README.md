@@ -1,16 +1,94 @@
-# React + Vite
+# Recipe Book by Lucca
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación hecha con **React + Vite** para consultar recetas y organizar preparaciones de forma simple, visual y práctica.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Ver proyecto online](https://lucashel-design.github.io/recipe-app/)
 
-## React Compiler
+## Descripción
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Este proyecto nació como práctica de React básico e intermedio, pero con una idea útil y real: tener una pequeña app donde se pueda:
 
-## Expanding the ESLint configuration
+- buscar recetas por nombre
+- ver el detalle de cada receta
+- cambiar entre **Libro de recetas** y **Libro de preparaciones**
+- marcar recetas según prioridad de preparación:
+  - **Urgente**
+  - **Preparar**
+  - **No preparar**
+- guardar ese estado incluso después de cerrar la app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+La información de preparación se guarda en `localStorage`, así que permanece hasta que alguien la cambie manualmente.
+
+---
+
+## Funcionalidades
+
+### Libro de recetas
+- barra de búsqueda por nombre
+- listado de recetas
+- detalle de receta seleccionada
+
+### Libro de preparaciones
+- barra de búsqueda
+- listado de todas las recetas
+- clasificación por estado:
+  - **Urgente**
+  - **Preparar**
+  - **No preparar**
+- orden automático por prioridad:
+  1. Urgente
+  2. Preparar
+  3. No preparar
+
+### Persistencia
+- los estados de preparación se guardan en `localStorage`
+- la información sigue disponible aunque se cierre o recargue la página
+
+---
+
+## Tecnologías usadas
+
+- **React**
+- **Vite**
+- **JavaScript**
+- **CSS**
+- **GitHub Pages** para el despliegue
+
+---
+
+## Conceptos de React practicados en este proyecto
+
+Este proyecto me sirvió para practicar y consolidar:
+
+- componentes
+- JSX
+- props
+- `useState`
+- `useEffect`
+- eventos (`onClick`, `onChange`, `onSubmit`)
+- renderizado condicional
+- renderizado de listas con `map`
+- `key`
+- formularios controlados
+- `localStorage`
+- organización por componentes
+
+---
+
+## Estructura del proyecto
+
+```bash
+src/
+├── components/
+│   ├── PreparationList.jsx
+│   ├── RecipeCard.jsx
+│   ├── RecipeDetail.jsx
+│   ├── RecipeList.jsx
+│   └── SearchBar.jsx
+├── data/
+│   └── recipes.js
+├── App.jsx
+├── main.jsx
+└── styles.css
